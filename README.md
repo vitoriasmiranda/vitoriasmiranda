@@ -1,6 +1,6 @@
 ## *Hello World, I'm Vitoria, be very welcome.*
 - 🎓 Estudante de Engenharia de Computação pela Universidade Federal de Ouro Preto.  
-- 💡 Apaixonada por Tecnologia.  
+- 💡 Apaixonada por Tecnologi.  
 ---
 ### 📬 Contact Me:
 - **LinkedIn:** [Vitoria Miranda] (https://www.linkedin.com/in/vitoriasmiranda/)
