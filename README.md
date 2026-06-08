@@ -1,7 +1,7 @@
-## *Hello World, I'm Vitoria, be very welcome.*
-- 🎓 Computer Engineering student at the Federal University of Ouro Preto.
+## Oi, eu sou a Vitória.
+- 🎓 Estudante de Engenharia de Computação na Universidade Federal de Ouro Preto.
 
-### 📬 Contact Me:
+### 📫 Vamos nos conectar!
 <a href="https://www.linkedin.com/in/vitoriasmiranda/">
   <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn">
 </a>
