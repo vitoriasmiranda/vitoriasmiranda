@@ -5,19 +5,10 @@
 
 </div>
 
-<table>
-<tr>
-<td width="30%" valign="top">
-
-### Vitória de Souza Miranda
-`vitoriasmiranda`
-
-**Estudante de Engenharia de Computação | Desenvolvedora Web | Aprendendo sempre mais**
+## Vitória de Souza Miranda
+Estudante de Engenharia de Computação | Desenvolvedora Web | Aprendendo sempre mais
 
 📧 vitoriamirandaa5@gmail.com
-
-</td>
-<td width="70%" valign="top">
 
 ### Sobre mim
 
@@ -56,8 +47,4 @@ Já contribuí em projetos como a reestruturação do **Portal do DECSI (UFOP)**
 </a>
 </p>
 
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&0:FF1493,100:FF69B4&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer" width="100%"/>
