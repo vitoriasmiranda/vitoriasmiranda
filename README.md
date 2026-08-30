@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=200&section=header&text=Welcome%20to%20Vitória's%20Github!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=130&section=header&text=Welcome%20to%20Vitória's%20Github!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 </div>
 
