@@ -5,11 +5,7 @@
 
 ### Sobre mim
 
-Sou estudante de **Engenharia de Computação** na **UFOP** (Campus João Monlevade) e atuo como **Desenvolvedora Web** na Visão Jr., a empresa júnior de tecnologia da universidade.
-
-Tenho experiência prática em lógica de programação em **C**, sólidos conhecimentos em **Programação Orientada a Objetos (POO)** e **Java**, e trabalho no desenvolvimento de sistemas web com **HTML5, CSS3 e JavaScript**, sempre com foco em acessibilidade e funcionalidade. Também tenho vivência com metodologias ágeis e versionamento de código com **Git/GitHub**.
-
-Já contribuí em projetos como a reestruturação do **Portal do DECSI (UFOP)** e o **Site Institucional da Brigada Florestal**, incluindo trabalho com **React/TypeScript**, Figma e ferramentas de IA generativa.
+Sou estudante de **Engenharia de Computação** na **UFOP** e atuo como **Desenvolvedora Web** na Visão Jr., a empresa júnior de tecnologia da universidade.
 
 ---
 
