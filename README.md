@@ -5,11 +5,6 @@
 
 </div>
 
-## Vitória de Souza Miranda
-Estudante de Engenharia de Computação | Desenvolvedora Web | Aprendendo sempre mais
-
-📧 vitoriamirandaa5@gmail.com
-
 ### Sobre mim
 
 Sou estudante de **Engenharia de Computação** na **UFOP** (Campus João Monlevade) e atuo como **Desenvolvedora Web** na Visão Jr., a empresa júnior de tecnologia da universidade.
