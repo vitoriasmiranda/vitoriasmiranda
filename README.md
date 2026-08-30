@@ -1,8 +1,6 @@
 <div align="center">
-
 <!-- Banner -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=110&section=header&text=Welcome%20to%20Vitória's%20Github!&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=160&section=header&text=Welcome%20to%20Vitória's%20Github!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 ### Sobre mim
