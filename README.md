@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=160&section=header&text=Welcome%20to%20Vitória's%20Github!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:34495E&height=160&section=header&text=Welcome%20to%20Vitória's%20Github!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 ### Sobre mim
@@ -12,15 +12,15 @@ Sou estudante de **Engenharia de Computação** na **UFOP** e atuo como **Desenv
 ### 🛠️ Linguagens e Ferramentas
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-FF1493?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-FF1493?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-FF1493?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-FF1493?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GITHUB-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/FIGMA-FF1493?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-2C3E50?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-2C3E50?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-2C3E50?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-2C3E50?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-2C3E50?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-2C3E50?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-2C3E50?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-2C3E50?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIGMA-2C3E50?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
@@ -29,11 +29,11 @@ Sou estudante de **Engenharia de Computação** na **UFOP** e atuo como **Desenv
 
 <p>
 <a href="https://www.linkedin.com/in/vitoriasmiranda/">
-<img src="https://img.shields.io/badge/LINKEDIN-FF1493?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-2C3E50?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:vitoriamirandaa5@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-FF1493?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-2C3E50?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:34495E&height=100&section=footer" width="100%"/>
