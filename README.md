@@ -21,6 +21,7 @@ Sou estudante de **Engenharia de Computação** na **UFOP** e atuo como **Desenv
 <img src="https://img.shields.io/badge/GIT-2C3E50?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GITHUB-2C3E50?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/FIGMA-2C3E50?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REACT-2C3E50?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
 ---
