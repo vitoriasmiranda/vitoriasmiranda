@@ -5,7 +5,17 @@
 
 ### Sobre mim
 
-Sou estudante de **Engenharia de Computação** na **UFOP** e atuo como **Desenvolvedora Web** na Visão Jr., a empresa júnior de tecnologia da universidade.
+- 🎓 Estudante de **Engenharia de Computação** na Universidade Federal de Ouro Preto (UFOP).
+- 💼 Atuo como **Desenvolvedora Web** na Visão Jr., criando interfaces modernas e responsivas.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitoriasmiranda&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriasmiranda&layout=compact&langs_count=6&theme=transparent&hide_border=true"/>
+</div>
 
 ---
 
