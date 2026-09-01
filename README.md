@@ -10,13 +10,6 @@
   
 ---
 
-### 📊 Estatísticas do GitHub
-
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=vitoriasmiranda&show_icons=true&theme=transparent&hide_border=true)](https://github.com/vitoriasmiranda)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriasmiranda&layout=compact&theme=transparent&hide_border=true)](https://github.com/vitoriasmiranda)
-
----
-
 ### 🛠️ Linguagens e Ferramentas
 
 <p>
