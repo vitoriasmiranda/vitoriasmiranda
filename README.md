@@ -7,7 +7,7 @@
 
 - 🎓 Estudante de **Engenharia de Computação** na Universidade Federal de Ouro Preto (UFOP).
 - 💼 Atuo como **Desenvolvedora Web** na Visão Jr., criando interfaces modernas e responsivas.
-  
+
 ---
 
 ### 🛠️ Linguagens e Ferramentas
