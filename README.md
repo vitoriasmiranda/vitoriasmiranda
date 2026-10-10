@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/FIGMA-2C3E50?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/REACT-2C3E50?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-2C3E50?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-2C3E50?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
